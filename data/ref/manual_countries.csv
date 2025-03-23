@@ -1,0 +1,6 @@
+countrie_name,short_name,continent,latitude,longitude,flag_url
+England,ENG,Europe,51.5,-0.1,https://flagcdn.com/gb-eng.svg
+Scotland,SCO,Europe,55.9,-3.4,https://flagcdn.com/gb-sct.svg
+Wales,WAL,Europe,52.1,-4.2,https://flagcdn.com/gb-wls.svg
+Northern Ireland,NIR,Europe,54.6,-5.9,https://flagcdn.com/gb-nir.svg
+Tahiti,TAH,Oceania,-17.65,-149.4,https://flagcdn.com/pf.svg
