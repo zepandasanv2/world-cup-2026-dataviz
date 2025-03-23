@@ -23,7 +23,11 @@ This project aims to build a complete and interactive dashboard in **Power BI** 
 data/
 ├── 2026/
 │   └── teams.csv
-scripts/
+├── ref/
+    └── coutries.csv
+    └── fifa_members.csv
+    └── fifa_with_countries.csv
+    └── manual_countries.csv
 docs/
 ├──README.md
 ├──journal.md
@@ -41,7 +45,7 @@ requirements.txt
 ## Status
 
 - Project initialized and structured  
-- Currently working on building the `teams.csv` from RestCountries API
+- Currently working on building the `teams.csv` from RestCountries API and wikipedia scraping
 
 ## ✍️ Author
 
