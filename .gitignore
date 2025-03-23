@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
