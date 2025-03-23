@@ -25,6 +25,8 @@ data/
 │   └── teams.csv
 scripts/
 docs/
+├──README.md
+├──journal.md
 notebooks/
 visuals/
 requirements.txt
